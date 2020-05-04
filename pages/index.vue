@@ -6,7 +6,7 @@
       </h1>
       <Masthead/>
       <h2 class="subtitle">
-        My top-notch Nuxt.js project
+        This is freaky...
       </h2>
       <div class="links">
         <a
