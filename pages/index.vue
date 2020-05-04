@@ -6,7 +6,7 @@
       </h1>
       <Masthead/>
       <h2 class="subtitle">
-        This is freaky...
+        This is freaky too...
       </h2>
       <div class="links">
         <a
